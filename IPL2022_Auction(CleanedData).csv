@@ -1,0 +1,633 @@
+Player,Type,Sold_for_lakh,Cost_in_dollars,Prev_team,Curr_team,status,retention,Base_price(In Lakhs)
+Rashid Khan,BOWLER,1500.0,1950.0,Sunrisers Hyderabad,Gujarat Titans,sold,Draft Pick,0.0
+Hardik Pandya,ALL-ROUNDER,1500.0,1950.0,Mumbai Indians,Gujarat Titans,sold,Draft Pick,0.0
+Lockie Ferguson,BOWLER,1000.0,1300.0,Kolkata Knight Riders,Gujarat Titans,sold,In Auction,200.0
+Rahul Tewatia,ALL-ROUNDER,900.0,1170.0,Rajasthan Royals,Gujarat Titans,sold,In Auction,40.0
+Shubman Gill,BATTER,800.0,1040.0,Kolkata Knight Riders,Gujarat Titans,sold,Draft Pick,0.0
+Mohammad Shami,BOWLER,625.0,812.5,Punjab Kings,Gujarat Titans,sold,In Auction,200.0
+Yash Dayal,BOWLER,320.0,416.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,20.0
+David Miller,BATTER,300.0,390.0,Rajasthan Royals,Gujarat Titans,sold,In Auction,100.0
+R. Sai Kishore,BOWLER,300.0,390.0,Chennai Super Kings,Gujarat Titans,sold,In Auction,20.0
+Abhinav Sadarangani,BATTER,260.0,338.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,20.0
+Matthew Wade,WICKETKEEPER,240.0,312.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,200.0
+Alzarri Joseph,BOWLER,240.0,312.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,75.0
+Jason Roy,BATTER,200.0,260.0,Sunrisers Hyderabad,Gujarat Titans,sold,In Auction,200.0
+Wriddhiman Saha,WICKETKEEPER,190.0,247.0,Sunrisers Hyderabad,Gujarat Titans,sold,In Auction,100.0
+Jayant Yadav,ALL-ROUNDER,170.0,221.0,Mumbai Indians,Gujarat Titans,sold,In Auction,100.0
+Vijay Shankar,ALL-ROUNDER,140.0,182.0,Sunrisers Hyderabad,Gujarat Titans,sold,In Auction,50.0
+Dominic Drakes,ALL-ROUNDER,110.00000000000001,143.0,Chennai Super Kings,Gujarat Titans,sold,In Auction,75.0
+Varun Aaron,BOWLER,50.0,65.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,50.0
+Gurkeerat Singh,ALL-ROUNDER,50.0,65.0,Kolkata Knight Riders,Gujarat Titans,sold,In Auction,50.0
+Noor Ahmad,BOWLER,30.0,39.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,30.0
+Darshan Nalkande,ALL-ROUNDER,20.0,26.0,Punjab Kings,Gujarat Titans,sold,In Auction,20.0
+Pradeep Sangwan,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Gujarat Titans,sold,In Auction,20.0
+Ravindra Jadeja,ALL-ROUNDER,1600.0,2080.0,Chennai Super Kings,Chennai Super Kings,sold,Retained,0.0
+Deepak Chahar,BOWLER,1400.0,1820.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,200.0
+MS Dhoni,WICKETKEEPER,1200.0,1560.0,Chennai Super Kings,Chennai Super Kings,sold,Retained,0.0
+Moeen Ali,ALL-ROUNDER,800.0,1040.0,Chennai Super Kings,Chennai Super Kings,sold,Retained,0.0
+Ambati Rayudu,WICKETKEEPER,675.0,877.5,Chennai Super Kings,Chennai Super Kings,sold,In Auction,200.0
+Ruturaj Gaikwad,BATTER,600.0,780.0,Chennai Super Kings,Chennai Super Kings,sold,Retained,0.0
+Dwayne Bravo,ALL-ROUNDER,440.00000000000006,572.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,200.0
+Shivam Dube,ALL-ROUNDER,400.0,520.0,Rajasthan Royals,Chennai Super Kings,sold,In Auction,50.0
+Chris Jordan,ALL-ROUNDER,360.0,468.0,Punjab Kings,Chennai Super Kings,sold,In Auction,200.0
+Robin Uthappa,BATTER,200.0,260.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,200.0
+Mitchell Santner,ALL-ROUNDER,190.0,247.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,100.0
+Adam Milne,BOWLER,190.0,247.0,Mumbai Indians,Chennai Super Kings,sold,In Auction,150.0
+Rajvardhan Hangargekar,ALL-ROUNDER,150.0,195.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,30.0
+Prashant Solanki,BOWLER,120.0,156.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,20.0
+Devon Conway,BATTER,100.0,130.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,100.0
+Maheesh Theekshana,BOWLER,70.0,91.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,50.0
+Dwaine Pretorius,ALL-ROUNDER,50.0,65.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,50.0
+K.Bhagath Varma,ALL-ROUNDER,20.0,26.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,20.0
+Simarjeet Singh,BOWLER,20.0,26.0,Mumbai Indians,Chennai Super Kings,sold,In Auction,20.0
+N. Jagadeesan,WICKETKEEPER,20.0,26.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,20.0
+C.Hari Nishaanth,BATTER,20.0,26.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,20.0
+K.M. Asif,BOWLER,20.0,26.0,Chennai Super Kings,Chennai Super Kings,sold,In Auction,20.0
+Tushar Deshpande,BOWLER,20.0,26.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,20.0
+Subhranshu Senapati,BATTER,20.0,26.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,20.0
+Mukesh Choudhary,BOWLER,20.0,26.0, Not Participated in IPL 2021,Chennai Super Kings,sold,In Auction,20.0
+Rishabh Pant,WICKETKEEPER,1600.0,2080.0,Delhi Capitals,Delhi Capitals,sold,Retained,0.0
+Shardul Thakur,BOWLER,1075.0,1397.5,Chennai Super Kings,Delhi Capitals,sold,In Auction,200.0
+Axar Patel,ALL-ROUNDER,900.0,1170.0,Delhi Capitals,Delhi Capitals,sold,Retained,0.0
+Prithvi Shaw,BATTER,750.0,975.0,Delhi Capitals,Delhi Capitals,sold,Retained,0.0
+Mitchell Marsh,ALL-ROUNDER,650.0,845.0, Not Participated in IPL 2021,Delhi Capitals,sold,In Auction,200.0
+Anrich Nortje,BOWLER,650.0,845.0,Delhi Capitals,Delhi Capitals,sold,Retained,0.0
+David Warner,BATTER,625.0,812.5,Sunrisers Hyderabad,Delhi Capitals,sold,In Auction,200.0
+Syed Khaleel Ahmed,BOWLER,525.0,682.5,Sunrisers Hyderabad,Delhi Capitals,sold,In Auction,50.0
+Chetan Sakariya,BOWLER,420.0,546.0,Rajasthan Royals,Delhi Capitals,sold,In Auction,50.0
+Rovman Powell,BATTER,280.0,364.0, Not Participated in IPL 2021,Delhi Capitals,sold,In Auction,75.0
+K.S. Bharat,WICKETKEEPER,200.0,260.0,Royal Challengers Bangalore,Delhi Capitals,sold,In Auction,20.0
+Mustafizur Rahman,BOWLER,200.0,260.0,Rajasthan Royals,Delhi Capitals,sold,In Auction,200.0
+Kuldeep Yadav,BOWLER,200.0,260.0,Kolkata Knight Riders,Delhi Capitals,sold,In Auction,100.0
+Kamlesh Nagarkoti,ALL-ROUNDER,110.00000000000001,143.0,Kolkata Knight Riders,Delhi Capitals,sold,In Auction,40.0
+Mandeep Singh,BATTER,110.00000000000001,143.0,Punjab Kings,Delhi Capitals,sold,In Auction,50.0
+Lalit Yadav,ALL-ROUNDER,65.0,84.5,Delhi Capitals,Delhi Capitals,sold,In Auction,20.0
+Tim Seifert,WICKETKEEPER,50.0,65.0,Kolkata Knight Riders,Delhi Capitals,sold,In Auction,50.0
+Pravin Dubey,ALL-ROUNDER,50.0,65.0,Delhi Capitals,Delhi Capitals,sold,In Auction,20.0
+Lungisani Ngidi,BOWLER,50.0,65.0,Chennai Super Kings,Delhi Capitals,sold,In Auction,50.0
+Yash Dhull,ALL-ROUNDER,50.0,65.0, Not Participated in IPL 2021,Delhi Capitals,sold,In Auction,20.0
+Ashwin Hebbar,BATTER,20.0,26.0, Not Participated in IPL 2021,Delhi Capitals,sold,In Auction,20.0
+Sarfaraz Khan,ALL-ROUNDER,20.0,26.0,Punjab Kings,Delhi Capitals,sold,In Auction,20.0
+Ripal Patel,ALL-ROUNDER,20.0,26.0,Delhi Capitals,Delhi Capitals,sold,In Auction,20.0
+Vicky Ostwal,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Delhi Capitals,sold,In Auction,20.0
+Shreyas Iyer,BATTER,1225.0,1592.5,Delhi Capitals,Kolkata Knight Riders,sold,In Auction,200.0
+Andre Russell,ALL-ROUNDER,1200.0,1560.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,Retained,0.0
+Nitish Rana,ALL-ROUNDER,800.0,1040.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,In Auction,100.0
+Venkatesh Iyer,ALL-ROUNDER,800.0,1040.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,Retained,0.0
+Varun Chakaravarthy,BOWLER,800.0,1040.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,Retained,0.0
+Pat Cummins,ALL-ROUNDER,725.0,942.5,Kolkata Knight Riders,Kolkata Knight Riders,sold,In Auction,200.0
+Shivam Mavi,ALL-ROUNDER,725.0,942.5,Kolkata Knight Riders,Kolkata Knight Riders,sold,In Auction,40.0
+Sunil Narine,ALL-ROUNDER,600.0,780.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,Retained,0.0
+Sam Billings,WICKETKEEPER,200.0,260.0,Delhi Capitals,Kolkata Knight Riders,sold,In Auction,200.0
+Umesh Yadav,BOWLER,200.0,260.0,Delhi Capitals,Kolkata Knight Riders,sold,In Auction,200.0
+Tim Southee,BOWLER,150.0,195.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,In Auction,150.0
+Alex Hales,BATTER,150.0,195.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,150.0
+Ajinkya Rahane,BATTER,100.0,130.0,Delhi Capitals,Kolkata Knight Riders,sold,In Auction,100.0
+Mohammad Nabi,ALL-ROUNDER,100.0,130.0,Sunrisers Hyderabad,Kolkata Knight Riders,sold,In Auction,100.0
+Sheldon Jackson,WICKETKEEPER,60.0,78.0,Kolkata Knight Riders,Kolkata Knight Riders,sold,In Auction,30.0
+Rinku Singh,BATTER,55.00000000000001,71.5, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Ashok Sharma,BOWLER,55.00000000000001,71.5, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Chamika Karunaratne,ALL-ROUNDER,50.0,65.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,50.0
+Abhijeet Tomar,BATTER,40.0,52.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Rasikh Dar,BOWLER,20.0,26.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Anukul Roy,ALL-ROUNDER,20.0,26.0,Mumbai Indians,Kolkata Knight Riders,sold,In Auction,20.0
+Baba Indrajith,WICKETKEEPER,20.0,26.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Aman Khan,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Ramesh Kumar,BATTER,20.0,26.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Pratham Singh,BATTER,20.0,26.0, Not Participated in IPL 2021,Kolkata Knight Riders,sold,In Auction,20.0
+Mayank Agarwal,BATTER,1200.0,1560.0,Punjab Kings,Punjab Kings,sold,Retained,0.0
+Liam Livingstone,ALL-ROUNDER,1150.0,1495.0,Rajasthan Royals,Punjab Kings,sold,In Auction,100.0
+Kagiso Rabada,BOWLER,925.0,1202.5,Delhi Capitals,Punjab Kings,sold,In Auction,200.0
+Shahrukh Khan,ALL-ROUNDER,900.0,1170.0,Punjab Kings,Punjab Kings,sold,In Auction,40.0
+Shikhar Dhawan,BATTER,825.0,1072.5,Delhi Capitals,Punjab Kings,sold,In Auction,200.0
+Jonny Bairstow,WICKETKEEPER,675.0,877.5,Sunrisers Hyderabad,Punjab Kings,sold,In Auction,150.0
+Odean Smith,ALL-ROUNDER,600.0,780.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,100.0
+Rahul Chahar,BOWLER,525.0,682.5,Mumbai Indians,Punjab Kings,sold,In Auction,75.0
+Arshdeep Singh,BOWLER,400.0,520.0,Punjab Kings,Punjab Kings,sold,Retained,0.0
+Harpreet Brar,ALL-ROUNDER,380.0,494.0,Punjab Kings,Punjab Kings,sold,In Auction,20.0
+Vaibhav Arora,BOWLER,200.0,260.0,Kolkata Knight Riders,Punjab Kings,sold,In Auction,20.0
+Raj Angad Bawa,ALL-ROUNDER,200.0,260.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+Nathan Ellis,BOWLER,75.0,97.5,Punjab Kings,Punjab Kings,sold,In Auction,75.0
+Prabhsimran Singh,WICKETKEEPER,60.0,78.0,Punjab Kings,Punjab Kings,sold,In Auction,20.0
+Rishi Dhawan,ALL-ROUNDER,55.00000000000001,71.5, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,50.0
+Sandeep Sharma,BOWLER,50.0,65.0,Sunrisers Hyderabad,Punjab Kings,sold,In Auction,50.0
+Bhanuka Rajapaksa,BATTER,50.0,65.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,50.0
+Benny Howell,ALL-ROUNDER,40.0,52.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,40.0
+Ishan Porel,BOWLER,25.0,32.5,Punjab Kings,Punjab Kings,sold,In Auction,20.0
+Prerak Mankad,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+Ansh Patel,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+Jitesh Sharma,WICKETKEEPER,20.0,26.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+Writtick Chatterjee,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+Atharva Taide,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+Baltej Dhanda,BOWLER,20.0,26.0, Not Participated in IPL 2021,Punjab Kings,sold,In Auction,20.0
+KL Rahul,WICKETKEEPER,1700.0,2210.0,Punjab Kings,Lucknow Super Giants,sold,Draft Pick,0.0
+Avesh Khan,BOWLER,1000.0,1300.0,Delhi Capitals,Lucknow Super Giants,sold,In Auction,20.0
+Marcus Stoinis,ALL-ROUNDER,919.9999999999999,1196.0,Delhi Capitals,Lucknow Super Giants,sold,Draft Pick,0.0
+Jason Holder,ALL-ROUNDER,875.0,1137.5,Sunrisers Hyderabad,Lucknow Super Giants,sold,In Auction,150.0
+Krunal Pandya,ALL-ROUNDER,825.0,1072.5,Mumbai Indians,Lucknow Super Giants,sold,In Auction,200.0
+Mark Wood,BOWLER,750.0,975.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,200.0
+Quinton De Kock,WICKETKEEPER,675.0,877.5,Mumbai Indians,Lucknow Super Giants,sold,In Auction,200.0
+Deepak Hooda,ALL-ROUNDER,575.0,747.5,Punjab Kings,Lucknow Super Giants,sold,In Auction,75.0
+Manish Pandey,BATTER,459.99999999999994,598.0,Sunrisers Hyderabad,Lucknow Super Giants,sold,In Auction,100.0
+Ravi Bishnoi,BOWLER,400.0,520.0,Punjab Kings,Lucknow Super Giants,sold,Draft Pick,0.0
+Dushmanta Chameera,BOWLER,200.0,260.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,50.0
+Evin Lewis,BATTER,200.0,260.0,Rajasthan Royals,Lucknow Super Giants,sold,In Auction,200.0
+K. Gowtham,ALL-ROUNDER,90.0,117.0,Chennai Super Kings,Lucknow Super Giants,sold,In Auction,50.0
+Kyle Mayers,ALL-ROUNDER,50.0,65.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,50.0
+Shahbaz Nadeem,BOWLER,50.0,65.0,Sunrisers Hyderabad,Lucknow Super Giants,sold,In Auction,50.0
+Ankit Singh Rajpoot,BOWLER,50.0,65.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,20.0
+Manan Vohra,BATTER,20.0,26.0,Rajasthan Royals,Lucknow Super Giants,sold,In Auction,20.0
+B. Sai Sudharsan,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,20.0
+Karan Sharma,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,20.0
+Ayush Badoni,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,20.0
+Mohsin Khan,BOWLER,20.0,26.0,Mumbai Indians,Lucknow Super Giants,sold,In Auction,20.0
+Mayank Yadav,BOWLER,20.0,26.0, Not Participated in IPL 2021,Lucknow Super Giants,sold,In Auction,20.0
+Rohit Sharma,BATTER,1600.0,2080.0,Mumbai Indians,Mumbai Indians,sold,Retained,0.0
+Ishan Kishan,WICKETKEEPER,1525.0,1982.5,Mumbai Indians,Mumbai Indians,sold,In Auction,200.0
+Jasprit Bumrah,BOWLER,1200.0,1560.0,Mumbai Indians,Mumbai Indians,sold,Retained,0.0
+Tim David,ALL-ROUNDER,825.0,1072.5,Royal Challengers Bangalore,Mumbai Indians,sold,In Auction,40.0
+Jofra Archer,ALL-ROUNDER,800.0,1040.0,Rajasthan Royals,Mumbai Indians,sold,In Auction,200.0
+Suryakumar Yadav,BATTER,800.0,1040.0,Mumbai Indians,Mumbai Indians,sold,Retained,0.0
+Kieron Pollard,ALL-ROUNDER,600.0,780.0,Mumbai Indians,Mumbai Indians,sold,Retained,0.0
+Dewald Brevis,BATTER,300.0,390.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Daniel Sams,ALL-ROUNDER,260.0,338.0,Royal Challengers Bangalore,Mumbai Indians,sold,In Auction,100.0
+N. Tilak Varma,ALL-ROUNDER,170.0,221.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Murugan Ashwin,BOWLER,160.0,208.0,Punjab Kings,Mumbai Indians,sold,In Auction,20.0
+Tymal Mills,BOWLER,150.0,195.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,100.0
+Jaydev Unadkat,BOWLER,130.0,169.0,Rajasthan Royals,Mumbai Indians,sold,In Auction,75.0
+Riley Meredith,BOWLER,100.0,130.0,Punjab Kings,Mumbai Indians,sold,In Auction,100.0
+Fabian Allen,ALL-ROUNDER,75.0,97.5, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,75.0
+Mayank Markande,BOWLER,65.0,84.5,Rajasthan Royals,Mumbai Indians,sold,In Auction,50.0
+Sanjay Yadav,ALL-ROUNDER,50.0,65.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Arjun Tendulkar,ALL-ROUNDER,30.0,39.0,Mumbai Indians,Mumbai Indians,sold,In Auction,20.0
+Basil Thampi,BOWLER,30.0,39.0,Sunrisers Hyderabad,Mumbai Indians,sold,In Auction,30.0
+Anmolpreet Singh,BATTER,20.0,26.0,Mumbai Indians,Mumbai Indians,sold,In Auction,20.0
+Aryan Juyal,WICKETKEEPER,20.0,26.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Ramandeep Singh,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Rahul Buddhi,BATTER,20.0,26.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Hrithik Shokeen,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Mohd. Arshad Khan,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Mumbai Indians,sold,In Auction,20.0
+Virat Kohli,BATTER,1500.0,1950.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,Retained,0.0
+Glenn Maxwell,ALL-ROUNDER,1100.0,1430.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,Retained,0.0
+Wanindu Hasaranga,ALL-ROUNDER,1075.0,1397.5,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,In Auction,100.0
+Harshal Patel,ALL-ROUNDER,1075.0,1397.5,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,In Auction,200.0
+Josh Hazlewood,BOWLER,775.0,1007.5,Chennai Super Kings,Royal Challengers Bangalore,sold,In Auction,200.0
+Faf Du Plessis,BATTER,700.0,910.0,Chennai Super Kings,Royal Challengers Bangalore,sold,In Auction,200.0
+Mohammed Siraj,BOWLER,700.0,910.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,Retained,0.0
+Dinesh Karthik,WICKETKEEPER,550.0,715.0,Kolkata Knight Riders,Royal Challengers Bangalore,sold,In Auction,200.0
+Anuj Rawat,WICKETKEEPER,340.0,442.0,Rajasthan Royals,Royal Challengers Bangalore,sold,In Auction,20.0
+Shahbaz Ahamad,ALL-ROUNDER,240.0,312.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,In Auction,30.0
+David Willey,ALL-ROUNDER,200.0,260.0, Not Participated in IPL 2021,Royal Challengers Bangalore,sold,In Auction,200.0
+Sherfane Rutherford,ALL-ROUNDER,100.0,130.0, Not Participated in IPL 2021,Royal Challengers Bangalore,sold,In Auction,100.0
+Mahipal Lomror,ALL-ROUNDER,95.0,123.5,Rajasthan Royals,Royal Challengers Bangalore,sold,In Auction,40.0
+Finn Allen,BATTER,80.0,104.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,In Auction,50.0
+Siddharth Kaul,BOWLER,75.0,97.5,Sunrisers Hyderabad,Royal Challengers Bangalore,sold,In Auction,75.0
+Jason Behrendorff,BOWLER,75.0,97.5,Chennai Super Kings,Royal Challengers Bangalore,sold,In Auction,75.0
+Karn Sharma,BOWLER,50.0,65.0,Chennai Super Kings,Royal Challengers Bangalore,sold,In Auction,50.0
+Suyash Prabhudessai,ALL-ROUNDER,30.0,39.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,In Auction,20.0
+Chama Milind,BOWLER,25.0,32.5, Not Participated in IPL 2021,Royal Challengers Bangalore,sold,In Auction,20.0
+Akash Deep,BOWLER,20.0,26.0,Royal Challengers Bangalore,Royal Challengers Bangalore,sold,In Auction,20.0
+Aneeshwar Gautam,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Royal Challengers Bangalore,sold,In Auction,20.0
+Luvnith Sisodia,WICKETKEEPER,20.0,26.0, Not Participated in IPL 2021,Royal Challengers Bangalore,sold,In Auction,20.0
+Sanju Samson,WICKETKEEPER,1400.0,1820.0,Rajasthan Royals,Rajasthan Royals,sold,Retained,0.0
+Jos Buttler,WICKETKEEPER,1000.0,1300.0,Rajasthan Royals,Rajasthan Royals,sold,Retained,0.0
+Prasidh Krishna,BOWLER,1000.0,1300.0,Kolkata Knight Riders,Rajasthan Royals,sold,In Auction,100.0
+Shimron Hetmyer,BATTER,850.0,1105.0,Delhi Capitals,Rajasthan Royals,sold,In Auction,150.0
+Trent Boult,BOWLER,800.0,1040.0,Mumbai Indians,Rajasthan Royals,sold,In Auction,200.0
+Devdutt Padikkal,BATTER,775.0,1007.5,Royal Challengers Bangalore,Rajasthan Royals,sold,In Auction,200.0
+Yuzvendra Chahal,BOWLER,650.0,845.0,Royal Challengers Bangalore,Rajasthan Royals,sold,In Auction,200.0
+R. Ashwin,ALL-ROUNDER,500.0,650.0,Delhi Capitals,Rajasthan Royals,sold,In Auction,200.0
+Yashaswi Jaiswal,BATTER,400.0,520.0,Rajasthan Royals,Rajasthan Royals,sold,Retained,0.0
+Riyan Parag,ALL-ROUNDER,380.0,494.0,Rajasthan Royals,Rajasthan Royals,sold,In Auction,30.0
+Navdeep Saini,BOWLER,260.0,338.0,Royal Challengers Bangalore,Rajasthan Royals,sold,In Auction,75.0
+Nathan Coulter-Nile,BOWLER,200.0,260.0,Mumbai Indians,Rajasthan Royals,sold,In Auction,200.0
+James Neesham,ALL-ROUNDER,150.0,195.0,Mumbai Indians,Rajasthan Royals,sold,In Auction,150.0
+Karun Nair,BATTER,140.0,182.0,Kolkata Knight Riders,Rajasthan Royals,sold,In Auction,50.0
+Rassie Van Der Dussen,BATTER,100.0,130.0, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,100.0
+Obed Mccoy,BOWLER,75.0,97.5, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,75.0
+Daryl Mitchell,ALL-ROUNDER,75.0,97.5, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,75.0
+K.C Cariappa,BOWLER,30.0,39.0,Rajasthan Royals,Rajasthan Royals,sold,In Auction,20.0
+Anunay Singh,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,20.0
+Kuldeep Sen,BOWLER,20.0,26.0, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,20.0
+Dhruv Jurel,WICKETKEEPER,20.0,26.0, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,20.0
+Tejas Baroka,BOWLER,20.0,26.0, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,20.0
+Kuldip Yadav,BOWLER,20.0,26.0,Rajasthan Royals,Rajasthan Royals,sold,In Auction,20.0
+Shubham Garhwal,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Rajasthan Royals,sold,In Auction,20.0
+Kane Williamson,BATTER,1400.0,1820.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,Retained,0.0
+Nicholas Pooran,WICKETKEEPER,1075.0,1397.5,Punjab Kings,Sunrisers Hyderabad,sold,In Auction,150.0
+Washington Sundar,ALL-ROUNDER,875.0,1137.5,Royal Challengers Bangalore,Sunrisers Hyderabad,sold,In Auction,150.0
+Rahul Tripathi,BATTER,850.0,1105.0,Kolkata Knight Riders,Sunrisers Hyderabad,sold,In Auction,40.0
+Romario Shepherd,ALL-ROUNDER,775.0,1007.5, Not Participated in IPL 2021,Sunrisers Hyderabad,sold,In Auction,75.0
+Abhishek Sharma,ALL-ROUNDER,650.0,845.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,In Auction,20.0
+Marco Jansen,ALL-ROUNDER,420.0,546.0,Mumbai Indians,Sunrisers Hyderabad,sold,In Auction,50.0
+Bhuvneshwar Kumar,BOWLER,420.0,546.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,In Auction,200.0
+T. Natarajan,BOWLER,400.0,520.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,In Auction,100.0
+Abdul Samad,ALL-ROUNDER,400.0,520.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,Retained,0.0
+Umran Malik,BOWLER,400.0,520.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,Retained,0.0
+Kartik Tyagi,BOWLER,400.0,520.0,Rajasthan Royals,Sunrisers Hyderabad,sold,In Auction,20.0
+Aiden Markram,BATTER,260.0,338.0,Punjab Kings,Sunrisers Hyderabad,sold,In Auction,100.0
+Sean Abbott,BOWLER,240.0,312.0, Not Participated in IPL 2021,Sunrisers Hyderabad,sold,In Auction,75.0
+Glenn Phillips,WICKETKEEPER,150.0,195.0,Rajasthan Royals,Sunrisers Hyderabad,sold,In Auction,150.0
+Shreyas Gopal,BOWLER,75.0,97.5,Rajasthan Royals,Sunrisers Hyderabad,sold,In Auction,20.0
+Vishnu Vinod,WICKETKEEPER,50.0,65.0,Delhi Capitals,Sunrisers Hyderabad,sold,In Auction,20.0
+Fazalhaq Farooqi,BOWLER,50.0,65.0, Not Participated in IPL 2021,Sunrisers Hyderabad,sold,In Auction,50.0
+Priyam Garg,BATTER,20.0,26.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,In Auction,20.0
+R Samarth,BATTER,20.0,26.0, Not Participated in IPL 2021,Sunrisers Hyderabad,sold,In Auction,20.0
+Jagadeesha Suchith,BOWLER,20.0,26.0,Sunrisers Hyderabad,Sunrisers Hyderabad,sold,In Auction,20.0
+Shashank Singh,ALL-ROUNDER,20.0,26.0, Not Participated in IPL 2021,Sunrisers Hyderabad,sold,In Auction,20.0
+Saurabh Dubey,BOWLER,20.0,26.0, Not Participated in IPL 2021,Sunrisers Hyderabad,sold,In Auction,20.0
+Suresh Raina,BATTER,0.0,0.0,Chennai Super Kings,Unsold,Unsold,In Auction,200.0
+Steve Smith,BATTER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,200.0
+Shakib Al Hasan,ALL-ROUNDER,0.0,0.0,Kolkata Knight Riders,Unsold,Unsold,In Auction,200.0
+Amit Mishra,BOWLER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,150.0
+Adil Rashid,BOWLER,0.0,0.0,Punjab Kings,Unsold,Unsold,In Auction,200.0
+Imran Tahir,BOWLER,0.0,0.0,Chennai Super Kings,Unsold,Unsold,In Auction,200.0
+Mujeeb Zadran,BOWLER,0.0,0.0,Sunrisers Hyderabad,Unsold,Unsold,In Auction,200.0
+Adam Zampa,BOWLER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,200.0
+Rajat Patidar,BATTER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,20.0
+Mohammed Azharuddeen,WICKETKEEPER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,20.0
+Vishnu Solanki,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sandeep Lamichhane,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+M. Siddharth,BOWLER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,20.0
+Aaron Finch,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,150.0
+Marnus Labuschagne,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+Dawid Malan,BATTER,0.0,0.0,Punjab Kings,Unsold,Unsold,In Auction,150.0
+Eoin Morgan,BATTER,0.0,0.0,Kolkata Knight Riders,Unsold,Unsold,In Auction,150.0
+Cheteshwar Pujara,BATTER,0.0,0.0,Chennai Super Kings,Unsold,Unsold,In Auction,50.0
+Saurabh Tiwary,BATTER,0.0,0.0,Mumbai Indians,Unsold,Unsold,In Auction,50.0
+Sheldon Cottrell,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Ishant Sharma,BOWLER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,150.0
+Qais Ahmad,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Piyush Chawla,BOWLER,0.0,0.0,Mumbai Indians,Unsold,Unsold,In Auction,100.0
+Tabraiz Shamsi,BOWLER,0.0,0.0,Rajasthan Royals,Unsold,Unsold,In Auction,100.0
+Ish Sodhi,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Sachin Baby,BATTER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,20.0
+Ricky Bhui,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Himanshu Rana,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Harnoor Singh,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Himmat Singh,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Virat Singh,BATTER,0.0,0.0,Sunrisers Hyderabad,Unsold,Unsold,In Auction,20.0
+Arzan Nagwaswalla,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Akash Singh,BOWLER,0.0,0.0,Rajasthan Royals,Unsold,Unsold,In Auction,20.0
+Yash Thakur,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Vasu Vats,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mujtaba Yousuf,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Chris Lynn,BATTER,0.0,0.0,Mumbai Indians,Unsold,Unsold,In Auction,150.0
+Najibullah Zadran,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Charith Asalanka,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+George Garton,ALL-ROUNDER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,50.0
+Litton Das,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Niroshan Dickwella,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Andre Fletcher,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Rahmanullah Gurbaz,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Shai Hope,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Heinrich Klaasen,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Ben Mcdermott,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Kusal Mendis,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Kusal Perera,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Joshua Philippe,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+Reece Topley,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Andrew Tye,BOWLER,0.0,0.0,Rajasthan Royals,Unsold,Unsold,In Auction,100.0
+Sandeep Warrier,BOWLER,0.0,0.0,Kolkata Knight Riders,Unsold,Unsold,In Auction,50.0
+Todd Astle,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Akila Dhananjaya,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Zahir Khan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Keshav Maharaj,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Waqar Salamkheil,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Rahul Sharma,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Hayden Walsh,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Tanmay Agarwal,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shivam Chauhan,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nikhil Gangta,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Rohan Kadam,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tom Kohler-Cadmore,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Priyank Panchal,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sameer Rizvi,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ritwik Roy Chowdhury,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Apoorv Wankhade,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Atharva Ankolekar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tanay Thyagarajan,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ankush Bains,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Prashant Chopra,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kedar Devdhar,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shreevats Goswami,WICKETKEEPER,0.0,0.0,Sunrisers Hyderabad,Unsold,Unsold,In Auction,20.0
+Akshdeep Nath,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Aditya Tare,WICKETKEEPER,0.0,0.0,Mumbai Indians,Unsold,Unsold,In Auction,20.0
+Upendra Singh Yadav,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ben Dwarshuis,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,30.0
+Pankaj Jaswal,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Lukman Hussain Meriwala,BOWLER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,20.0
+Vyshak Vijay Kumar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Zeeshan Ansari,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Yuvraj Chudasama,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dharmendrasinh Jadeja,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Khrievitso Kense,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Prince Balwant Rai,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pardeep Sahu,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jalaj Saxena,BOWLER,0.0,0.0,Punjab Kings,Unsold,Unsold,In Auction,30.0
+Midhun Sudhesan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Martin Guptill,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Usman Khawaja,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,150.0
+Brandon King,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Janneman Malan,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Rilee Rossouw,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+Paul Stirling,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Hanuma Vihari,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+James Vince,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,200.0
+Hazratullah Zazai,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Roston Chase,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+Ben Cutting,ALL-ROUNDER,0.0,0.0,Kolkata Knight Riders,Unsold,Unsold,In Auction,75.0
+Lewis Gregory,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,150.0
+Moises Henriques,ALL-ROUNDER,0.0,0.0,Punjab Kings,Unsold,Unsold,In Auction,100.0
+Akeal Hosein,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Karim Janat,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Scott Kuggeleijn,ALL-ROUNDER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,75.0
+Pawan Negi,ALL-ROUNDER,0.0,0.0,Kolkata Knight Riders,Unsold,Unsold,In Auction,50.0
+Taskin Ahmed,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Marchant De Lange,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,200.0
+Dhawal Kulkarni,BOWLER,0.0,0.0,Mumbai Indians,Unsold,Unsold,In Auction,75.0
+Saqib Mahmood,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,200.0
+Kane Richardson,BOWLER,0.0,0.0,Royal Challengers Bangalore,Unsold,Unsold,In Auction,150.0
+Naveen Ul Haq,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Harpreet Bhatia,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Sudip Chatterjee,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Hiten Dalal,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Abhimanyu Easwaran,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Laurie Evans,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Rahul Gahlaut,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Amandeep Khare,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mayank Rawat,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dhruv Shorey,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Hayden Kerr,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Saurabh Kumar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shams Mulani,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dhruv Patel,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Atit Sheth,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Utkarsh Singh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+David Wiese,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Kaif Ahmad,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shubhum Arora,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Arun Karthick,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Eknath Kerkar,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kennar Lewis,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Nikhil Naik,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Urvil Patel,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+B.R. Sharath,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+K.L. Shrijith,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mohit Avasthi,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sushant Mishra,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Matheesha Pathirana,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+G Periyasamy,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+M.Harishankar Reddy,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+R. Silambarasan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Aditya Thakare,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tanveer Ul Haq,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Prithviraj Yarra,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Satyajeet Bachhav,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Chintal Gandhi,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jacob Lintott,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Izharulhuq Naveed,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tanveer Sangha,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Manav Suthar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Milind Tandon,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sagar Udeshi,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kushaal Wadhwani,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Akshay Wakhare,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Darren Bravo,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Shamrah Brooks,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Avishka Fernando,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Zubayr Hamza,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Pathum Nissaanka,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Kurtis Patterson,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Hashmatullah Shahidi,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Manoj Tiwary,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Ashton Agar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,200.0
+Carlos Brath15000000e,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Kedar Jadhav,ALL-ROUNDER,0.0,0.0,Sunrisers Hyderabad,Unsold,Unsold,In Auction,100.0
+Colin Munro,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,150.0
+Gulbadin Naib,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Keemo Paul,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Parvez Rasool,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Dasun Shanaka,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Wesley Agar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Shoriful Islam,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Josh Little,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Blessing Muzarabani,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Jayden Seales,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Mohit Sharma,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Barinder Sran,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Billy Stanlake,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,75.0
+Neil Wagner,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Qamran Iqbal,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ishank Jaggi,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Rohan Kunnummal,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tanmay Mishra,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Yash Nahar,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shubham Singh Rohilla,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Alex Ross,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Naushad Shaikh,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Baba Aparajith,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Prayas Barman,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Yudhvir Charak,ALL-ROUNDER,0.0,0.0,Mumbai Indians,Unsold,Unsold,In Auction,20.0
+Shubhang Hegde,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Roosh Kalaria,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tanush Kotian,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kaushal Tambe,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shivank Vashisth,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Rahul Chandrol,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Harvik Desai,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Cam Fletcher,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tarang Gohel,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Fazil Makaya,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ryan Rickelton,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sandeep Kumar Tomar,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Siddhesh Wath,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Stephen Cheepurupalli,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Aniket Choudhary,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kartikeya Kak,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ali Khan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Kulwant Khejroliya,BOWLER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,20.0
+Ronit More,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+M Nidheesh,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Babasafi Pathan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Vidyadhar Patil,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mukesh Kumar Singh,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+R. Alexandar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Adithya Ashok,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jasmer Dhankhar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Prerit Dutta,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jon Russ Jaggesar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+S. Kishan Kumar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kevin Koththigoda,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Swaraj Wabale,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Curtis Campher,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Colin De Grandhomme,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+James Faulkner,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+Craig Overton,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,200.0
+Wayne Parnell,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Samit Patel,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Thisara Perera,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Darcy Short,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,100.0
+Murali Vijay,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Jack Wildermuth,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Hamish Bennett,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Daryn Dupavillon,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Fidel Edwards,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Hamid Hassan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Lahiru Kumara,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Joel Paris,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+S. Sreesanth,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Oshane Thomas,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Blair Tickner,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Isuru Udana,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Donavon Ferreira,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Bhupen Lalwani,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Henan Malik,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pukhraj Mann,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shashwat Rawat,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jake Weatherald,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Gerald Coetzee,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Akshay Karnewar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sumit Kumar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Abid Mushtaq,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Lone Muzaffar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ninad Rathva,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shoun Roger,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jaideep Bhambhu,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nandre Burger,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Matt Kelly,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,30.0
+V Koushik,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Akash Madhwal,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Amit Mishra,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Anuj Raj,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Abhijeet Saket,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Rahul Shukla,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nuwan Thushara,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mark Adnair,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Hilton Cartwright,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Gareth Delany,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Danushka Gunatilaka,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Anaru Kitchen,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Dhananjaya Lakshan,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Sisanda Magala,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Andile Phehlukwayo,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Seekkuge Prasanna,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Raymon Reifer,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Amit Ali,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Chaitanya Bishnoi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mayank Dagar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Migael Pretorius,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shivam Sharma,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pratyush Singh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sanvir Singh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dhrushant Soni,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+M Venkatesh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Bandaru Ayyappa,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Gurnoor Singh Brar,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Akash Choudhary,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mohit Jangra,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Aaqib Khan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ruben Trumpelmann,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Brad Wheal,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,50.0
+Lalit Yadav,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Auqib Dar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Chirag Gandhi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Chris Green,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,40.0
+Sijomon Joseph,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Anirudha Joshi,ALL-ROUNDER,0.0,0.0,Delhi Capitals,Unsold,Unsold,In Auction,20.0
+Shubham Sharma,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shubham Singh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Arpit Guleria,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Vipul Krishna,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Safvan Patel,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Chinntla Readdi,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Manish Reddy,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ravi Sharma,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shubham Singh,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Corbin Bosch,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nathan McAndrew,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Diwesh Pathania,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shubham Ranjane,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tom Rogers,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Johannes Smit,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sagar Trivedi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Harsh Tyagi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+R. Vivek,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+R.Sonu Yadav,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+V. Athisayaraj,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ottneil Baartman,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+M.B. Darshan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+V. Gowtham,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Khwezi Gumede,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Liam Guthrie,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Liam Hatcher,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jay Bista,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Saurav Chuahan,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Tajinder Dhillon,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dikshanshu Negi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Abhishek Raut,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+K.V. Sasikanth,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Bharat Sharma,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Amit Yadav,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Manoj Bhandage,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Arun Chaprana,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ajay Dev Goud,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Divyang Hinganekar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Azim Kazi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sujit Nayak,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Parth Sahani,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ashutosh Sharma,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Vivrant Sharma,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Kumar Kartikeya Singh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ravi Chauhan,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Shafiqullah Ghafari,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+M. Mohammed,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pulkit Narang,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pradosh Paul,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pushpendra Singh Rathore,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jason Sangha,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Purnank Tyagi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Samarth Vyas,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Duan Jansen,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dev Lakra,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ajay Mandal,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Lakhan Raja,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Girinath Reddy,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Siddhant Sharma,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Matthew Short,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Saurin Thakar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nyeem Young,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Yuvraj Chaudhary,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Khizar Dafedar,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sahil Dhiwan,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Arjit Gupta,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mickil Jaiswal,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ryan John,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+J. Kousik,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jitender Pal,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Jonty Sidhu,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Yashovardhan Singh,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Beyers Swanepoel,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Pranshu Vijayran,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Ishan Afridi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mohammed Afridi,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Prerit Agrawal,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Aidan Cahill,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mark Deyal,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nidhish Rajagopal,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Bavanaka Sandeep,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Safyaan Sharif,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Henry Shipley,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Maxwell Swaminathan,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Johan Van Dyk,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Dunith Wellalage,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Agnivesh Ayachi,ALL-ROUNDER,0.0,0.0,Punjab Kings,Unsold,Unsold,In Auction,20.0
+Rohan Rana,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nitish Reddy,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Hardik Tamore,WICKETKEEPER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Mihir Hirwani,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Sairaj Patil,BATTER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Monu Singh,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Nivethan Radhakrishnan,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Lance Morris,BOWLER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
+Aaron Hardie,ALL-ROUNDER,0.0,0.0, Not Participated in IPL 2021,Unsold,Unsold,In Auction,20.0
